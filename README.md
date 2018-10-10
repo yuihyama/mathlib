@@ -1,4 +1,4 @@
-# math-lib
+# mathlib
 
 
 ## License
